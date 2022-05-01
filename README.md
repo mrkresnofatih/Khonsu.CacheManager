@@ -2,6 +2,12 @@
 
 This is a simple redis caching utility library for skipping creating templates.
 
+## How To Install
+
+```
+dotnet add package Khonsu.CacheManager --version 1.0.0
+```
+
 ## How To Get Started
 
 In WebAPI Projects, first, you just create your database.
